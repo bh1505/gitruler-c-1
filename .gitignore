@@ -1,2 +1,2 @@
-files/ideas*.bak
-files/ideas/drafts/
+*.bak
+**/drafts
